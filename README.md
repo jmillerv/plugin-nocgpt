@@ -1,4 +1,4 @@
-# plugin-noindexplus
+# plugin-nocgpt
 Micro.blog plugin for people to disallow ChatGPT from indexing or interacting with their site through bots. 
 
 ## Acknowledgements 
