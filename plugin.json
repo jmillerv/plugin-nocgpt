@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "NoCGPT",
   "description": "Adds a custom robots.txt file that prevents ChatGPT from indexing your page.",
   "includes": [
