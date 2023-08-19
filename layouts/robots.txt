@@ -1,0 +1,7 @@
+# Block ChatGPT User plugins
+User-agent: ChatGPT-User
+Disallow: /
+
+# Block ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
